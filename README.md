@@ -1,5 +1,5 @@
 # Krypt-Web3-Dapp
-Send and Receive crypto with just a click.
+Send crypto to whoever you want with just a click.
 
 
-Work in progress..
+
